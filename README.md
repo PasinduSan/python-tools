@@ -44,7 +44,7 @@ Welcome everyone to contribute to this project!
 - [search_commits.py](https://github.com/Henry-Jia/python-tools/blob/master/search_commits.py): a program that returns commits that contain specific words, inspired by a random bot of Instagram
 - [simple_calculator.py](https://github.com/Henry-Jia/python-tools/blob/master/simple_calculator.py): making a simple calculator which can perform operations like addition, subtraction, multiplication and division
 - [singly_linked_list.py](https://github.com/Henry-Jia/python-tools/blob/master/singly_linked_list.py): singly linked list with python
-- [snake.py](https://github.com/Henry-Jia/python-tools/blob/master/snake.py): a simple snake game
+- [snake.py](https://github.com/Henry-Jia/python-tools/blob/master/snake.py): a simple snake game by Henry-Jia
 - [sort_n_numbers.py](https://github.com/Henry-Jia/python-tools/blob/master/sort_n_numbers.py): a program to sort n numbers
 - [table_element_statistics_and_deletion.py](https://github.com/Henry-Jia/python-tools/blob/master/table_element_statistics_and_deletion.py): excel table element statistics and deletion
 - [tic_tac.py](https://github.com/Henry-Jia/python-tools/blob/master/tic_tac.py): Tic Tac Toe Game
